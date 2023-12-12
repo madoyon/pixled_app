@@ -1,13 +1,9 @@
 import 'package:flutter/material.dart';
 import 'package:flex_color_picker/flex_color_picker.dart';
 import 'package:flutter_blue_plus/flutter_blue_plus.dart';
-import 'package:google_fonts/google_fonts.dart';
-import 'package:lumos_app/components/characteristic_tile.dart';
-import 'package:lumos_app/components/descriptor_tile.dart';
 import "dart:async";
 
 import 'package:lumos_app/components/extra.dart';
-import 'package:lumos_app/components/service_tile.dart';
 import 'package:lumos_app/models/light_fixture_model.dart';
 
 class LightFixturePage extends StatefulWidget {
